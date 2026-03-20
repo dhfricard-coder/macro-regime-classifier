@@ -1,4 +1,4 @@
-# Python
+# Python temprary files not to be uploaded
 __pycache__/
 *.pyc
 *.pyo
@@ -13,9 +13,9 @@ __pycache__/
 # Mac / system files
 .DS_Store
 
-# Colab
+# Colab temporary files
 *.ipynb~
 
-# API keys or secrets
+# Potential API keys or secrets
 config.py
 secrets.json
